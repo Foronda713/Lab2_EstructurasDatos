@@ -43,6 +43,30 @@ MerkleTree: Clase principal con lógica de construcción Bottom-Up (_build_tree)
 
 ---
 
+## Imágenes de Validación
+
+<img width="512" height="549" alt="image" src="https://github.com/user-attachments/assets/d1ad70aa-fac9-4884-8b7b-088a77f171c5" />
+
+
+
+
+<img width="512" height="310" alt="image" src="https://github.com/user-attachments/assets/42162240-a1d5-43f7-87a0-4bfd45904292" />
+
+
+
+
+<img width="512" height="353" alt="image" src="https://github.com/user-attachments/assets/494cb355-aca1-4a6d-accd-3fd9b1a48c0e" />
+
+
+
+
+<img width="512" height="381" alt="image" src="https://github.com/user-attachments/assets/03c8513a-915d-466a-bf43-52d1da5efc89" />
+
+
+
+
+---
+
 ## Diagrama del Árbol de Merkle (5 Hojas Iniciales)
 
 Al inicializar el proyecto con 5 bloques de datos (`Tx1` a `Tx5`), la presencia de un número impar de hojas hace que la quinta hoja se duplique para balancear el nivel inicial. Luego, al ascender al segundo nivel (3 nodos), la rama derecha vuelve a duplicarse para permitir la combinación final en la raíz:
